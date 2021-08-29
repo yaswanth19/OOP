@@ -1,0 +1,48 @@
+h1{
+    color:rgb(54, 133, 47);
+    text-align: center;
+}
+body{
+    
+    background-color: cornsilk;
+}
+h2{
+    text-transform: capitalize;
+    color: rgb(103, 25, 192);
+}
+.container{
+    padding: 5px 20px 15px 20px;
+    margin: 2px;
+}
+*{
+    box-sizing: border-box;
+}
+input[type="text"],
+input[type="number"],
+input[type="password"],
+input[type="email"],
+input[type="date"],
+select,
+text,
+textarea{
+    margin: 10px;
+    padding: 10px;
+    border-color: red;
+
+}
+fieldset{
+    border: 2px solid red;
+}
+h2{
+    text-transform: capitalize;
+}
+input[type="submit"]{
+    border-radius: 10px;
+    background-color: seagreen;
+    padding: 20px;
+    cursor:pointer ;
+    width:100%;
+    text-align: center;
+    text-size-adjust: 100;
+    
+}
